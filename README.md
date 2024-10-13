@@ -1,8 +1,5 @@
-Here’s a sample README file for the project, outlining the process and instructions for using the code. You can customize it further as needed.
 
----
-
-# Stock Movement Prediction using Reddit Sentiment Analysis
+# Stock Movement Prediction using Reddit Sentiment & Historic Data Analysis
 
 This project aims to predict stock price movements by analyzing sentiment from Reddit discussions. The workflow involves scraping data from specific subreddits related to stock market discussions, processing and feature extraction, and then applying machine learning models to predict stock trends.
 
